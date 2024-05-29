@@ -1,4 +1,5 @@
-
+import sys
+sys.path.insert(1, '../')
 from my_crypto import *
 
 
